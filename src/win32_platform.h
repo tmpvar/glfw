@@ -63,7 +63,7 @@
 
 
 //========================================================================
-// Hack: Define things that some windows.h variants don't
+// HACK: Define things that some windows.h variants don't
 //========================================================================
 
 #ifndef WM_MOUSEHWHEEL
