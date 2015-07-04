@@ -1,6 +1,6 @@
 {
   "name": "glfw.c",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "GLFW on npm for cmake linkage + static building",
   "main": "index.js",
   "directories": {
