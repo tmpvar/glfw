@@ -1,0 +1,34 @@
+{
+  "name": "glfw.c",
+  "version": "0.0.0",
+  "description": "GLFW on npm for cmake linkage + static building",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/glfw.git"
+  },
+  "keywords": [
+    "glfw",
+    "gl",
+    "addon",
+    "windowing",
+    "cross",
+    "platform",
+    "c",
+    "c++"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "Zlib",
+  "bugs": {
+    "url": "https://github.com/tmpvar/glfw/issues"
+  },
+  "homepage": "https://github.com/tmpvar/glfw"
+}
